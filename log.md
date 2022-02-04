@@ -1,11 +1,28 @@
 
-### R1D1: February 01, 2022
+
+### R1D4: February 04, 2022
+
+✨ Review Ajax and fetching data with the Wes Bos Course.
+
+🇮🇹
+
+✨ Ho rivisto Ajax and fetching data con il corso di Wes Bos.
 
 
-✨  Started [Rocket Shoes Project](https://github.com/filipesaretta/rocketshoes) the design is from Rocketseat, it’s part of some basics projects to practice.
+---
+### R1D3: February 03, 2022
 
-✨ Learn about @use and @forward on sass → [Stop using @import with Sass](https://www.youtube.com/watch?v=CR-a8upNjJ0)
+🚀 Today I read about [HTTP request](https://www.freecodecamp.org/news/http-request-methods-explained/) methods to review some concepts.
 
+✨ Made 3 challenges with Java Script on HackerRank.
+
+
+🇮🇹
+
+🚀 Ho letto su [HTTP request](https://www.freecodecamp.org/news/http-request-methods-explained/) metodi per rivedere alcuni concetti.
+✨ Ho fatto 3 sfide con JS su HackerRank.
+
+---
 
 ### R1D2: February 02, 2022
 
@@ -13,24 +30,23 @@
 
 ✨ One lesson that I learn today was to search first for simple solutions and only than try to make more sophisticated.
 
----
-:it:
+🇮🇹
 
 ✅  Oggi ho finito il [progetto](https://github.com/filipesaretta/rocketshoes)
 
 ✨Ho imparato che prima devo cercare di trovare una soluzione semplice per i problemi e dopo se necessario fare le cose più sofisticate.
 
-### R1D3: February 03, 2022
-
-🚀 Today I read about [HTTP request](https://www.freecodecamp.org/news/http-request-methods-explained/) methods to review some concepts.
-✨ Made 3 challenges with Java Script on HackerRank.
 
 ---
 
-:it:
+### R1D1: February 01, 2022
 
-🚀 Ho letto su [HTTP request](https://www.freecodecamp.org/news/http-request-methods-explained/) metodi per rivedere alcuni concetti.
-✨ Ho fatto 3 sfide con JS su HackerRank.
+✨  Started [Rocket Shoes Project](https://github.com/filipesaretta/rocketshoes) the design is from Rocketseat, it’s part of some basics projects to practice.
+
+✨ Learn about @use and @forward on sass → [Stop using @import with Sass](https://www.youtube.com/watch?v=CR-a8upNjJ0)
+
+
+
 
 
 
