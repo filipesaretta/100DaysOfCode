@@ -1,5 +1,15 @@
 
 
+
+### R1D5: February 06, 2022
+
+✨ Finish review of Ajax and fetching data with the Wes Bos Course.
+
+🇮🇹
+
+✨ Ho finito la revisione di Ajax and fetching data con il corso di Wes Bos.
+
+
 ### R1D4: February 04, 2022
 
 ✨ Review Ajax and fetching data with the Wes Bos Course.
