@@ -1,4 +1,10 @@
+### R1D6: February 07, 2022
 
+✨ Made a simple currency converter with Wes Bos Course.
+
+🇮🇹
+
+✨ Ho fatto un app di cambio di valuta con il corso Wes Bos.
 
 
 ### R1D5: February 06, 2022
