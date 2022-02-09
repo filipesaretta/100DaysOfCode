@@ -1,3 +1,12 @@
+### R1D7: February 08, 2022
+
+✨ Today I review the basics of react, and new ways to build a react site for 2022.
+
+🇮🇹
+
+✨ Ho fatto una revisione della base di react e scoperto nuove modi per costruire un react app in 2022.
+
+
 ### R1D6: February 07, 2022
 
 ✨ Made a simple currency converter with Wes Bos Course.
