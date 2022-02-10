@@ -1,3 +1,11 @@
+### R1D8: February 09, 2022
+
+✨ Started an simple app to practice my skills in React with Typescript and styled-components.
+
+🇮🇹
+
+✨ Ho cominciato un simple app per fare pratica con React Typescript e styled-components.
+
 ### R1D7: February 08, 2022
 
 ✨ Today I review the basics of react, and new ways to build a react site for 2022.
