@@ -1,3 +1,13 @@
+### R1D9: February 11, 2022
+
+✨ Build a little more of my simple money control app.
+✨ Learn about Radix-ui and apply into my project.
+
+🇮🇹
+
+✨ Ho continuato con la costruzione dell'app.
+✨ Ho conosciuto e applica sul progetto Radix-ui.
+
 ### R1D8: February 09, 2022
 
 ✨ Started an simple app to practice my skills in React with Typescript and styled-components.
