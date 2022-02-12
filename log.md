@@ -1,3 +1,12 @@
+### R1D10: February 12, 2022
+
+✨ Today I learn about Context in React and use on a project.
+
+🇮🇹
+
+✨ Oggi ho imparato come utilizzare Context con React.
+
+
 ### R1D9: February 11, 2022
 
 ✨ Build a little more of my simple money control app.
