@@ -1,3 +1,11 @@
+### R1D11: February 13, 2022
+
+✨ I Learn  more about context and completely remade the modal using react-modal.
+
+🇮🇹
+
+✨ Ho imparato  piú di come utilizzare Context e ho rifatto il modal con react-moda.
+
 ### R1D10: February 12, 2022
 
 ✨ Today I learn about Context in React and use on a project.
