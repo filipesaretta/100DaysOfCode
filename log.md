@@ -1,3 +1,11 @@
+### R1D12: February 15, 2022
+
+✨ Worked on the [simple control](https://github.com/filipesaretta/control-money) app finish the functionalities
+
+🇮🇹
+
+✨ Ho finito le funzionalità del simple app per controllare le spese.
+
 ### R1D11: February 13, 2022
 
 ✨ I Learn  more about context and completely remade the modal using react-modal.
