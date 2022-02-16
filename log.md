@@ -4,7 +4,7 @@
 
 🇮🇹
 
-✨ Ho finito le funzionalità del simple app per controllare le spese.
+✨ Ho finito le funzionalità del [simple app per controllare le spese](https://github.com/filipesaretta/control-money).
 
 ### R1D11: February 13, 2022
 
