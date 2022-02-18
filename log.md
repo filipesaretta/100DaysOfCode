@@ -1,3 +1,12 @@
+### R1D13: February 17, 2022
+
+✨ Today I did a review of some basic parts of developing with React with the Scrimba Course Learn React.
+
+🇮🇹
+
+✨ Oggi ho fatto una revisione di alcuni parti base dello sviluppo con  React con il Scrimba Course Learn React.
+
+
 ### R1D12: February 15, 2022
 
 ✨ Worked on the [simple control](https://github.com/filipesaretta/control-money) app finish the functionalities
