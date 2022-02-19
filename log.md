@@ -1,10 +1,19 @@
+### R1D14: February 19, 2022
+
+✨ I continued to review the basics of react.
+
+🇮🇹
+
+✨ Ho continuato a rivedere le basi di React.
+
+
 ### R1D13: February 17, 2022
 
 ✨ Today I did a review of some basic parts of developing with React with the Scrimba Course Learn React.
 
 🇮🇹
 
-✨ Oggi ho fatto una revisione di alcuni parti base dello sviluppo con  React con il Scrimba Course Learn React.
+✨ Oggi ho fatto una revisione di alcuni parti base dello sviluppo con React con il Scrimba Course Learn React.
 
 
 ### R1D12: February 15, 2022
