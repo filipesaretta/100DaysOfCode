@@ -1,3 +1,13 @@
+### R1D15: February 21, 2022
+
+✨ Finished the first section of the react course from scrimba
+💡 Started a project using react with typescript, it's going to be a simple screen for search users on github. 
+
+🇮🇹
+
+✨ Ho finito la prima parte di scrimba corso
+💡 Ho cominciato un progetto con react e typescript, sarà una semplice app per ricercare utenti su github.
+
 ### R1D14: February 19, 2022
 
 ✨ I continued to review the basics of react.
