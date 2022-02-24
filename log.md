@@ -1,3 +1,9 @@
+### R1D16: February 23, 2022
+
+✨ Started the second section of the react course from scrimba
+💡 Keep working on my simple app for search users on github. 
+
+
 ### R1D15: February 21, 2022
 
 ✨ Finished the first section of the react course from scrimba
